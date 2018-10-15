@@ -1,0 +1,19 @@
+{
+  "name": "Project1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node1.js",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0",
+    "node-telegram-keyboard-wrapper": "^1.0.2",
+    "request": "^2.88.0",
+    "telegram-node-bot": "^4.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
